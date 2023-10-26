@@ -1,2 +1,2 @@
 # shopping_cart
-Run Command = Node shopping_cart.js
+Run Command : Node shopping_cart.js

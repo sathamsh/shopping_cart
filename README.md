@@ -16,5 +16,5 @@ git clone https://github.com/sathamsh/shopping_cart
 
 Navigate to the project directory: cd shopping-cart
 
-Run the JavaScript code using Node.js. Execute the following command: node shopping_cart.js
+Run the JavaScript code using Node.js. Execute the following command: Node shopping_cart.js
 

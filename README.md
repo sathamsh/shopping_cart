@@ -7,16 +7,17 @@ This is a simple JavaScript program that calculates the total amount to be paid 
 - [Node.js](https://nodejs.org/) installed on your machine
 - [Visual Studio Code](https://code.visualstudio.com/) (optional, but recommended)
 
-## How to Run
+## How to clone
 
 1. Clone this repository to your local machine:
 
 ```bash
 git clone https://github.com/sathamsh/shopping_cart
+```
 
+## How to Run
+```bash
 Navigate to the project directory: cd shopping-cart
 
-## Run Command
-```bash
 Run the JavaScript code using Node.js. Execute the following command: Node shopping_cart.js
 

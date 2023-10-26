@@ -14,9 +14,7 @@ This is a simple JavaScript program that calculates the total amount to be paid 
 ```bash
 git clone https://github.com/sathamsh/shopping_cart
 
-```bash
 Navigate to the project directory: cd shopping-cart
 
-```bash
 Run the JavaScript code using Node.js. Execute the following command: node shopping_cart.js
 
